@@ -1,6 +1,6 @@
 ---
-  title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+title: 'RMarkdown:  In Class Assignment'
+author: "Damon Ross"
 date: "Data 2401"
 output: html_document
 ---
